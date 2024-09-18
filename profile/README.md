@@ -1,4 +1,10 @@
-## Hi there 👋
+# Keyfront
+
+### Welcome to keyfront!
+ The external open source Discode Studio's project.
+
+ ### What is Keyfront?
+ Keyfront is Discode Studio's external open source project, that said it consists of sharing files and scripts and also open source websites even if some will remain semi-private.
 
 <!--
 
